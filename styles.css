@@ -1239,10 +1239,12 @@ button {
 .mobile-menu {
   position: fixed;
   top: calc(clamp(16px, 2.4vh, 28px) + 48px + 12px);
-  left: 50%;
-  transform: translateX(-50%);
+  left: 0;
+  right: 0;
   z-index: 100;
   width: min(calc(100% - 28px), 360px);
+  max-height: calc(100dvh - clamp(16px, 2.4vh, 28px) - 48px - 28px);
+  margin-inline: auto;
   padding: 22px 18px 20px;
   border-radius: 28px;
   background: #fff;
@@ -1251,6 +1253,9 @@ button {
   flex-direction: column;
   align-items: stretch;
   gap: 4px;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  -webkit-overflow-scrolling: touch;
 }
 
 .mobile-menu[hidden] {
@@ -1276,6 +1281,7 @@ button {
 }
 
 .mobile-menu.is-open .mobile-link,
+.mobile-menu.is-open .mobile-lang-switch,
 .mobile-menu.is-open .mobile-sign-in {
   animation: linkIn 0.35s cubic-bezier(0.22, 1, 0.36, 1) both;
 }
@@ -1284,7 +1290,10 @@ button {
 .mobile-menu.is-open .mobile-link:nth-child(2) { animation-delay: 0.1s; }
 .mobile-menu.is-open .mobile-link:nth-child(3) { animation-delay: 0.14s; }
 .mobile-menu.is-open .mobile-link:nth-child(4) { animation-delay: 0.18s; }
-.mobile-menu.is-open .mobile-sign-in { animation-delay: 0.22s; }
+.mobile-menu.is-open .mobile-link:nth-child(5) { animation-delay: 0.22s; }
+.mobile-menu.is-open .mobile-link:nth-child(6) { animation-delay: 0.26s; }
+.mobile-menu.is-open .mobile-lang-switch { animation-delay: 0.3s; }
+.mobile-menu.is-open .mobile-sign-in { animation-delay: 0.34s; }
 
 .mobile-link:hover {
   opacity: 0.75;
@@ -1640,6 +1649,7 @@ button {
 
   .mobile-menu {
     width: min(calc(100% - 24px), 360px);
+    max-height: calc(100dvh - clamp(16px, 2.4vh, 28px) - 48px - 24px);
   }
 
   .contact-item {
