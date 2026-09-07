@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://labs-kamaloka-ai.us/sitemap.xml
