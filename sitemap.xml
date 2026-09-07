@@ -4,9 +4,6 @@
     <loc>https://labs-kamaloka-ai.us</loc>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://labs-kamaloka-ai.us/fr/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://labs-kamaloka-ai.us/en/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://labs-kamaloka-ai.us/en/" />
   </url>
   <url>
     <loc>https://labs-kamaloka-ai.us/fr/</loc>
@@ -23,5 +20,293 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://labs-kamaloka-ai.us/fr/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://labs-kamaloka-ai.us/en/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://labs-kamaloka-ai.us/en/" />
+  </url>
+  <url>
+    <loc>https://labs-kamaloka-ai.us/fr/a-propos/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://labs-kamaloka-ai.us/fr/a-propos/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://labs-kamaloka-ai.us/en/about/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://labs-kamaloka-ai.us/en/about/" />
+  </url>
+  <url>
+    <loc>https://labs-kamaloka-ai.us/en/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://labs-kamaloka-ai.us/fr/a-propos/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://labs-kamaloka-ai.us/en/about/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://labs-kamaloka-ai.us/en/about/" />
+  </url>
+  <url>
+    <loc>https://labs-kamaloka-ai.us/fr/produits/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://labs-kamaloka-ai.us/fr/produits/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://labs-kamaloka-ai.us/en/products/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://labs-kamaloka-ai.us/en/products/" />
+  </url>
+  <url>
+    <loc>https://labs-kamaloka-ai.us/en/products/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://labs-kamaloka-ai.us/fr/produits/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://labs-kamaloka-ai.us/en/products/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://labs-kamaloka-ai.us/en/products/" />
+  </url>
+  <url>
+    <loc>https://labs-kamaloka-ai.us/fr/produits/fotip-ci/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://labs-kamaloka-ai.us/fr/produits/fotip-ci/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://labs-kamaloka-ai.us/en/products/fotip-ci/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://labs-kamaloka-ai.us/en/products/fotip-ci/" />
+  </url>
+  <url>
+    <loc>https://labs-kamaloka-ai.us/en/products/fotip-ci/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://labs-kamaloka-ai.us/fr/produits/fotip-ci/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://labs-kamaloka-ai.us/en/products/fotip-ci/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://labs-kamaloka-ai.us/en/products/fotip-ci/" />
+  </url>
+  <url>
+    <loc>https://labs-kamaloka-ai.us/fr/produits/kagliostro/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://labs-kamaloka-ai.us/fr/produits/kagliostro/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://labs-kamaloka-ai.us/en/products/kagliostro/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://labs-kamaloka-ai.us/en/products/kagliostro/" />
+  </url>
+  <url>
+    <loc>https://labs-kamaloka-ai.us/en/products/kagliostro/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://labs-kamaloka-ai.us/fr/produits/kagliostro/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://labs-kamaloka-ai.us/en/products/kagliostro/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://labs-kamaloka-ai.us/en/products/kagliostro/" />
+  </url>
+  <url>
+    <loc>https://labs-kamaloka-ai.us/fr/produits/orchestria/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://labs-kamaloka-ai.us/fr/produits/orchestria/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://labs-kamaloka-ai.us/en/products/orchestria/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://labs-kamaloka-ai.us/en/products/orchestria/" />
+  </url>
+  <url>
+    <loc>https://labs-kamaloka-ai.us/en/products/orchestria/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://labs-kamaloka-ai.us/fr/produits/orchestria/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://labs-kamaloka-ai.us/en/products/orchestria/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://labs-kamaloka-ai.us/en/products/orchestria/" />
+  </url>
+  <url>
+    <loc>https://labs-kamaloka-ai.us/fr/produits/desky/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://labs-kamaloka-ai.us/fr/produits/desky/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://labs-kamaloka-ai.us/en/products/desky/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://labs-kamaloka-ai.us/en/products/desky/" />
+  </url>
+  <url>
+    <loc>https://labs-kamaloka-ai.us/en/products/desky/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://labs-kamaloka-ai.us/fr/produits/desky/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://labs-kamaloka-ai.us/en/products/desky/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://labs-kamaloka-ai.us/en/products/desky/" />
+  </url>
+  <url>
+    <loc>https://labs-kamaloka-ai.us/fr/produits/vibeminator/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://labs-kamaloka-ai.us/fr/produits/vibeminator/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://labs-kamaloka-ai.us/en/products/vibeminator/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://labs-kamaloka-ai.us/en/products/vibeminator/" />
+  </url>
+  <url>
+    <loc>https://labs-kamaloka-ai.us/en/products/vibeminator/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://labs-kamaloka-ai.us/fr/produits/vibeminator/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://labs-kamaloka-ai.us/en/products/vibeminator/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://labs-kamaloka-ai.us/en/products/vibeminator/" />
+  </url>
+  <url>
+    <loc>https://labs-kamaloka-ai.us/fr/produits/argos/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://labs-kamaloka-ai.us/fr/produits/argos/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://labs-kamaloka-ai.us/en/products/argos/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://labs-kamaloka-ai.us/en/products/argos/" />
+  </url>
+  <url>
+    <loc>https://labs-kamaloka-ai.us/en/products/argos/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://labs-kamaloka-ai.us/fr/produits/argos/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://labs-kamaloka-ai.us/en/products/argos/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://labs-kamaloka-ai.us/en/products/argos/" />
+  </url>
+  <url>
+    <loc>https://labs-kamaloka-ai.us/fr/agents-ia/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://labs-kamaloka-ai.us/fr/agents-ia/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://labs-kamaloka-ai.us/en/ai-agents/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://labs-kamaloka-ai.us/en/ai-agents/" />
+  </url>
+  <url>
+    <loc>https://labs-kamaloka-ai.us/en/ai-agents/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://labs-kamaloka-ai.us/fr/agents-ia/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://labs-kamaloka-ai.us/en/ai-agents/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://labs-kamaloka-ai.us/en/ai-agents/" />
+  </url>
+  <url>
+    <loc>https://labs-kamaloka-ai.us/fr/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://labs-kamaloka-ai.us/fr/contact/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://labs-kamaloka-ai.us/en/contact/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://labs-kamaloka-ai.us/en/contact/" />
+  </url>
+  <url>
+    <loc>https://labs-kamaloka-ai.us/en/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://labs-kamaloka-ai.us/fr/contact/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://labs-kamaloka-ai.us/en/contact/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://labs-kamaloka-ai.us/en/contact/" />
+  </url>
+  <url>
+    <loc>https://labs-kamaloka-ai.us/fr/ressources/arnaques-mobile-money-cote-divoire/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://labs-kamaloka-ai.us/fr/ressources/arnaques-mobile-money-cote-divoire/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://labs-kamaloka-ai.us/en/resources/mobile-money-fraud-africa/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://labs-kamaloka-ai.us/en/resources/mobile-money-fraud-africa/" />
+  </url>
+  <url>
+    <loc>https://labs-kamaloka-ai.us/en/resources/mobile-money-fraud-africa/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://labs-kamaloka-ai.us/fr/ressources/arnaques-mobile-money-cote-divoire/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://labs-kamaloka-ai.us/en/resources/mobile-money-fraud-africa/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://labs-kamaloka-ai.us/en/resources/mobile-money-fraud-africa/" />
+  </url>
+  <url>
+    <loc>https://labs-kamaloka-ai.us/fr/ressources/adoption-ia-cote-divoire/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://labs-kamaloka-ai.us/fr/ressources/adoption-ia-cote-divoire/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://labs-kamaloka-ai.us/en/resources/ai-adoption-ivory-coast/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://labs-kamaloka-ai.us/en/resources/ai-adoption-ivory-coast/" />
+  </url>
+  <url>
+    <loc>https://labs-kamaloka-ai.us/en/resources/ai-adoption-ivory-coast/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://labs-kamaloka-ai.us/fr/ressources/adoption-ia-cote-divoire/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://labs-kamaloka-ai.us/en/resources/ai-adoption-ivory-coast/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://labs-kamaloka-ai.us/en/resources/ai-adoption-ivory-coast/" />
+  </url>
+  <url>
+    <loc>https://labs-kamaloka-ai.us/fr/ressources/agent-ia-vs-chatbot/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://labs-kamaloka-ai.us/fr/ressources/agent-ia-vs-chatbot/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://labs-kamaloka-ai.us/en/resources/ai-agent-vs-chatbot/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://labs-kamaloka-ai.us/en/resources/ai-agent-vs-chatbot/" />
+  </url>
+  <url>
+    <loc>https://labs-kamaloka-ai.us/en/resources/ai-agent-vs-chatbot/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://labs-kamaloka-ai.us/fr/ressources/agent-ia-vs-chatbot/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://labs-kamaloka-ai.us/en/resources/ai-agent-vs-chatbot/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://labs-kamaloka-ai.us/en/resources/ai-agent-vs-chatbot/" />
+  </url>
+  <url>
+    <loc>https://labs-kamaloka-ai.us/fr/cybersecurite-ia/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://labs-kamaloka-ai.us/fr/cybersecurite-ia/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://labs-kamaloka-ai.us/en/ai-cybersecurity/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://labs-kamaloka-ai.us/en/ai-cybersecurity/" />
+  </url>
+  <url>
+    <loc>https://labs-kamaloka-ai.us/en/ai-cybersecurity/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://labs-kamaloka-ai.us/fr/cybersecurite-ia/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://labs-kamaloka-ai.us/en/ai-cybersecurity/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://labs-kamaloka-ai.us/en/ai-cybersecurity/" />
+  </url>
+  <url>
+    <loc>https://labs-kamaloka-ai.us/fr/automatisation-ia/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://labs-kamaloka-ai.us/fr/automatisation-ia/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://labs-kamaloka-ai.us/en/ai-automation/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://labs-kamaloka-ai.us/en/ai-automation/" />
+  </url>
+  <url>
+    <loc>https://labs-kamaloka-ai.us/en/ai-automation/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://labs-kamaloka-ai.us/fr/automatisation-ia/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://labs-kamaloka-ai.us/en/ai-automation/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://labs-kamaloka-ai.us/en/ai-automation/" />
+  </url>
+  <url>
+    <loc>https://labs-kamaloka-ai.us/fr/ressources/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://labs-kamaloka-ai.us/fr/ressources/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://labs-kamaloka-ai.us/en/resources/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://labs-kamaloka-ai.us/en/resources/" />
+  </url>
+  <url>
+    <loc>https://labs-kamaloka-ai.us/en/resources/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://labs-kamaloka-ai.us/fr/ressources/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://labs-kamaloka-ai.us/en/resources/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://labs-kamaloka-ai.us/en/resources/" />
+  </url>
+  <url>
+    <loc>https://labs-kamaloka-ai.us/fr/ressources/ecosysteme-startup-ia-cote-divoire/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://labs-kamaloka-ai.us/fr/ressources/ecosysteme-startup-ia-cote-divoire/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://labs-kamaloka-ai.us/en/resources/ivory-coast-ai-startup-ecosystem/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://labs-kamaloka-ai.us/en/resources/ivory-coast-ai-startup-ecosystem/" />
+  </url>
+  <url>
+    <loc>https://labs-kamaloka-ai.us/en/resources/ivory-coast-ai-startup-ecosystem/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://labs-kamaloka-ai.us/fr/ressources/ecosysteme-startup-ia-cote-divoire/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://labs-kamaloka-ai.us/en/resources/ivory-coast-ai-startup-ecosystem/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://labs-kamaloka-ai.us/en/resources/ivory-coast-ai-startup-ecosystem/" />
+  </url>
+  <url>
+    <loc>https://labs-kamaloka-ai.us/fr/entreprise-technologique-abidjan/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://labs-kamaloka-ai.us/fr/entreprise-technologique-abidjan/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://labs-kamaloka-ai.us/en/ai-company-ivory-coast/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://labs-kamaloka-ai.us/en/ai-company-ivory-coast/" />
+  </url>
+  <url>
+    <loc>https://labs-kamaloka-ai.us/en/ai-company-ivory-coast/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://labs-kamaloka-ai.us/fr/entreprise-technologique-abidjan/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://labs-kamaloka-ai.us/en/ai-company-ivory-coast/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://labs-kamaloka-ai.us/en/ai-company-ivory-coast/" />
   </url>
 </urlset>
